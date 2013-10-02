@@ -1,6 +1,7 @@
 sysstat
 
-This is the sysstat module.
+This is the sysstat module for installing sysstat and enabling it. It has been
+tested under Ubuntu.
 
 License
 -------
@@ -9,8 +10,9 @@ License
 Contact
 -------
 
+Leon Brocard acme@astray.com.
 
 Support
 -------
 
-Please log tickets and issues at our [Projects site](http://projects.example.com)
+Please log tickets and issues at [GitHub](http://https://github.com/acme/puppet-acme-sysstat)

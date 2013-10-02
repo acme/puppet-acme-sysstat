@@ -49,9 +49,9 @@ class sysstat {
 
   augeas { '/etc/default/sysstat':
     context => '/files/etc/default/sysstat/',
-    changes => "set ENABLED true",
-    notify => Service['sysstat'],
-    require => Package["sysstat"],
+    changes => 'set ENABLED true',
+    notify  => Service['sysstat'],
+    require => Package['sysstat'],
   }
 
 }

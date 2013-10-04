@@ -1,7 +1,10 @@
 # == Class: sysstat
 #
-# This is the sysstat module for installing sysstat and enabling it. It has been
-# tested under Ubuntu.
+# This is the sysstat module for installing sysstat and enabling it. It has
+# been tested under Ubuntu.
+#
+# The sysstat utilities are a collection of performance monitoring tools for
+# Linux.
 #
 # === Parameters
 #
